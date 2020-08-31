@@ -27,7 +27,7 @@ contact information, and other important info.
 
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
-|  1   | Logistics ([video](https://gvsu365-my.sharepoint.com/:v:/g/personal/bowmnath_gvsu_edu/EVxx4c7jnPBEo8DtMkeAEYYBL2tbRBvaFsxYvtINp3EK_w?e=G5kgEq))<br> Overview ([slides](slides/overview.pdf)) ([video](https://gvsu365-my.sharepoint.com/:v:/g/personal/bowmnath_gvsu_edu/ERLIDh743vFKpieGsvngnV0BJy5kHIb48T7ejX7oNmaw3A?e=Jt1a3S))<br> Language Evaluation ([slides](slides/language-evaluation.pdf)) ([video 1](https://gvsu365-my.sharepoint.com/:v:/g/personal/bowmnath_gvsu_edu/EQhbchMNJ9tCpMI9KMV6XX8BOhPnZLfIPingc4YgQsV6Iw?e=6C6ATi)) ([video 2](https://gvsu365-my.sharepoint.com/:v:/g/personal/bowmnath_gvsu_edu/ETEjYbtiNl1ImVDn6Skj3cgBzA3_MzO8Tk8UWYrjNwzgPg?e=uvMDNo)) | Chapter 1 | **Friday 9/4** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
+|  1   | Logistics ([video](https://drive.google.com/file/d/1Fo96zEsNVDbt-hHwJaHGUazZNdsM1TdH/view?usp=sharing))<br> Overview ([slides](slides/overview.pdf)) ([video](https://drive.google.com/file/d/1mAlUxlsJqGChVPFOkfLllLG3MWysAiix/view?usp=sharing))<br> Language Evaluation ([slides](slides/language-evaluation.pdf)) ([video 1](https://drive.google.com/file/d/1tTy0RNCaGLEEjA4tpaDsI-Mal1kSGwjL/view?usp=sharing)) ([video 2](https://drive.google.com/file/d/14H-JfIr3Y38HST1wBcof7_i0P5B1yxWa/view?usp=sharing)) | Chapter 1 | **Friday 9/4** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
 |  2   | Imperative Procedural Programming (with C) | | |
 |  3   | History and Architecture | | |
 |  4   | Syntax and Semantics | | |
