@@ -27,7 +27,7 @@ contact information, and other important info.
 
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
-|  1   | Overview ([slides](slides/overview.pdf)) ([video](https://piazza.com/class_profile/get_resource/keaem77ccdss2/kei6duk1sgx1n9]))<br> Language Evaluation ([slides](slides/language-evaluation.pdf])) ([video 1](https://piazza.com/class_profile/get_resource/keaem77ccdss2/kei6estobcd21x])) ([video 2](https://piazza.com/class_profile/get_resource/keaem77ccdss2/kei6f09xcle24f])) | Chapter 1 | **Friday 9/4** (Syllabus quiz)[https://prairielearn.engr.illinois.edu/pl/] |
+|  1   | Overview ([slides](slides/overview.pdf)) ([video](https://piazza.com/class_profile/get_resource/keaem77ccdss2/kei6duk1sgx1n9]))<br> Language Evaluation ([slides](slides/language-evaluation.pdf])) ([video 1](https://piazza.com/class_profile/get_resource/keaem77ccdss2/kei6estobcd21x])) ([video 2](https://piazza.com/class_profile/get_resource/keaem77ccdss2/kei6f09xcle24f])) | Chapter 1 | **Friday 9/4** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
 |  2   | Imperative Procedural Programming (with C) | | |
 |  3   | History and Architecture | | |
 |  4   | Syntax and Semantics | | |
