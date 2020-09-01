@@ -10,11 +10,17 @@ The course also uses other websites for specific purposes.
 and you are responsible for monitoring Piazza to keep up to date with
 announcements
 (Piazza by default will send an email when an announcement is posted).
-Signup link: [www.piazza.com/gvsu/fall2020/cis343](http://www.piazza.com/gvsu/fall2020/cis343).
-You can read the following [Piazza FAQ](misc/piazza-faq.md) if you
-are have questions.
+    * Signup link: [www.piazza.com/gvsu/fall2020/cis343](http://www.piazza.com/gvsu/fall2020/cis343).
+    * You can read the following [Piazza FAQ](misc/piazza-faq.md) if you are
+      have questions.
 * [Zoom](https://zoom.us) will be the video conferencing service for office
   hours and synchronous course meetings.
+    * Course meetings (Section 1):
+      [https://us02web.zoom.us/j/89247728114?pwd=TzBRZENjaHhiaFZJRmc5NUJkVHhKZz09](https://us02web.zoom.us/j/89247728114?pwd=TzBRZENjaHhiaFZJRmc5NUJkVHhKZz09)
+    * Course meetings (Section 2):
+      [https://us02web.zoom.us/j/87241162031?pwd=Y3hKSzZOSXNPQUg3R3MyVitwK2hQQT09](https://us02web.zoom.us/j/87241162031?pwd=Y3hKSzZOSXNPQUg3R3MyVitwK2hQQT09)
+    * Office hours:
+      [https://us02web.zoom.us/j/86265634339?pwd=S2NmYjRkUFRsR3Jpb1JoU0VEQ2JtUT09](https://us02web.zoom.us/j/86265634339?pwd=S2NmYjRkUFRsR3Jpb1JoU0VEQ2JtUT09)
 * [Prairielearn](https://prairielearn.engr.illinois.edu/pl/) is where you will
 submit all of your assignments, labs, and projects.
 

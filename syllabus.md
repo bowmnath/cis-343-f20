@@ -19,6 +19,9 @@ Office Hours:
 * Thursdays 11 AM - 12 PM
 * Fridays 10 - 11 AM
 
+Zoom link for office hours:
+[https://us02web.zoom.us/j/86265634339?pwd=S2NmYjRkUFRsR3Jpb1JoU0VEQ2JtUT09](https://us02web.zoom.us/j/86265634339?pwd=S2NmYjRkUFRsR3Jpb1JoU0VEQ2JtUT09)
+
 The best way to contact me about the course is through
 [Piazza](http://www.piazza.com/gvsu/fall2020/cis343).
 I also regularly monitor the channel for this course on the unofficial
@@ -40,6 +43,13 @@ The course lectures will be delivered asynchronously.
 Synchronous meeting times will occur once weekly:
 * 12 - 12:50 PM Fridays (Section 1)
 * 11 - 11:50 AM Fridays (Section 2)
+
+Zoom link for meetings and labs:
+* Section 1:
+  [https://us02web.zoom.us/j/89247728114?pwd=TzBRZENjaHhiaFZJRmc5NUJkVHhKZz09](https://us02web.zoom.us/j/89247728114?pwd=TzBRZENjaHhiaFZJRmc5NUJkVHhKZz09)
+* Section 2:
+  [https://us02web.zoom.us/j/87241162031?pwd=Y3hKSzZOSXNPQUg3R3MyVitwK2hQQT09](https://us02web.zoom.us/j/87241162031?pwd=Y3hKSzZOSXNPQUg3R3MyVitwK2hQQT09)
+(not that these are *different* from the meeting link for office hours)
 
 The synchronous meetings will be time for guided activities and questions about
 lecture content.
