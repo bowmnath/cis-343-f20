@@ -84,6 +84,10 @@ After successful completion of this course, students will be able to:
 *Concepts of programming languages, 12th edition*;
 Sebesta; Pearson, 2018
 
+If you purchased the eText,
+the link to redeem the textbook is
+[https://console.pearson.com/enrollment/0mbbvf](https://console.pearson.com/enrollment/0mbbvf)
+
 ## Prerequisites
 
 * Admitted to CIS major
