@@ -33,7 +33,7 @@ contact information, and other important info.
 
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
-|  1   | Logistics ([video](https://drive.google.com/file/d/1Fo96zEsNVDbt-hHwJaHGUazZNdsM1TdH/view?usp=sharing))<br> Overview ([slides](slides/overview.pdf)) ([video](https://drive.google.com/file/d/1mAlUxlsJqGChVPFOkfLllLG3MWysAiix/view?usp=sharing))<br> Language Evaluation ([slides](slides/language-evaluation.pdf)) ([video 1](https://drive.google.com/file/d/1tTy0RNCaGLEEjA4tpaDsI-Mal1kSGwjL/view?usp=sharing)) ([video 2](https://drive.google.com/file/d/14H-JfIr3Y38HST1wBcof7_i0P5B1yxWa/view?usp=sharing)) | Chapter 1 | **Friday 9/4** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
+|  1   | Logistics ([video](https://drive.google.com/file/d/1Fo96zEsNVDbt-hHwJaHGUazZNdsM1TdH/view?usp=sharing))<br> Overview ([slides](slides/overview.pdf)) ([video](https://drive.google.com/file/d/1mAlUxlsJqGChVPFOkfLllLG3MWysAiix/view?usp=sharing))<br> Language Evaluation ([slides](slides/language-evaluation.pdf)) ([video 1](https://drive.google.com/file/d/1tTy0RNCaGLEEjA4tpaDsI-Mal1kSGwjL/view?usp=sharing)) ([video 2](https://drive.google.com/file/d/14H-JfIr3Y38HST1wBcof7_i0P5B1yxWa/view?usp=sharing))<br> [Friday activity](activities/discussion-week-1.md) | Chapter 1 | **Friday 9/4** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
 |  2   | Imperative Procedural Programming (with C) | | |
 |  3   | History and Architecture | | |
 |  4   | Syntax and Semantics | | |
