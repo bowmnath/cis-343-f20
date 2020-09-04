@@ -27,6 +27,10 @@ submit all of your assignments, labs, and projects.
 Be sure to read through the [syllabus](syllabus.md) for course policies,
 contact information, and other important info.
 
+If you purchased the eText,
+the link to redeem the textbook is
+[https://console.pearson.com/enrollment/0mbbvf](https://console.pearson.com/enrollment/0mbbvf)
+
 ## Schedule
 
 ** Note: This is an estimated timeline and subject to change. **
