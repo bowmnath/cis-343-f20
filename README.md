@@ -38,7 +38,7 @@ the link to redeem the textbook is
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
 |  1   | Logistics ([video](https://drive.google.com/file/d/1Fo96zEsNVDbt-hHwJaHGUazZNdsM1TdH/view?usp=sharing))<br> Overview ([slides](slides/overview.pdf)) ([video](https://drive.google.com/file/d/1mAlUxlsJqGChVPFOkfLllLG3MWysAiix/view?usp=sharing))<br> Language Evaluation ([slides](slides/language-evaluation.pdf)) ([video 1](https://drive.google.com/file/d/1tTy0RNCaGLEEjA4tpaDsI-Mal1kSGwjL/view?usp=sharing)) ([video 2](https://drive.google.com/file/d/14H-JfIr3Y38HST1wBcof7_i0P5B1yxWa/view?usp=sharing))<br> [Friday activity](activities/discussion-week-1.md) | Chapter 1 | **Friday 9/4** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
-|  2   | Imperative Procedural Programming (with C) | | |
+|  2   | Imperative Procedural Programming (with C) ([c-intro](https://drive.google.com/file/d/10q5hhlw_uPBrCA8P9bE6CQ-0nupVC5d_/view?usp=sharing)) ([c-libraries](https://drive.google.com/file/d/1A9klODAgrZKcKS_4JGD0pw2H56ih4Zvk/view?usp=sharing)) ([c-linking](https://drive.google.com/file/d/1GnJlLED_9jMScwv9YFH9jfyHmVpl2OGD/view?usp=sharing)) ([c-layout](https://drive.google.com/file/d/1-rYYUTsXRd_de1aERXlYSCd7nzAXKfQc/view?usp=sharing)) ([c-data-types](https://drive.google.com/file/d/1DsVTNdnj1WCRLL4tMednG5crp1zKNKat/view?usp=sharing)) ([c-mem-manage](https://drive.google.com/file/d/1eBDU846B3khQ0xLpk3WRwJZv0W5iU5fR/view?usp=sharing)) ([slides](slides/c-language.pdf)) | Check out [pointer perils](https://github.com/irawoodring/pointer_perils)  | |
 |  3   | History and Architecture | | |
 |  4   | Syntax and Semantics | | |
 |  5   | Lexical and Syntax Analysis<br> Flex | | |
