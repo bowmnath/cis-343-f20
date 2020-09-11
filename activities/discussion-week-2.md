@@ -86,3 +86,34 @@ Try writing it two ways:
 You should always compile your C wode with `-Wall` to enable warnings.
 If you see a warning,
 it is probably going to lead to an error when you run.
+
+You may use the following code to read in the arguments to help you get
+started.
+
+```
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+
+char* reverse_string(char *original) {
+    // create this method using a for or a while loop
+}
+
+
+int main(int argc, char* argv[]) {
+
+    // Normally we do *a lot* more error checking, but for now let's
+    // keep it simple
+
+    // The first argument is always the command itself.
+    // The second argument is a string (char*)
+
+    char *original = argv[1];
+    char *reverse = reverse_string(original);
+
+    // print the string and clean up
+
+    return 0;
+}
+```
