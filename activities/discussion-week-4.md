@@ -140,8 +140,8 @@ You'll need to think about which parts of the statements are required and which
 are optional.
 Don't bother going all the way down to characters --
 stop at convenient tokens
-(e.g., you can stop at the `<identifiers>` token without giving a rule defining
-it).
+(e.g., you can stop at the `<identifier>` nonterminal without giving a rule
+defining it).
 If you are having trouble,
 start by making some simplifying assumptions and writing the description for
 the simplified grammar.
