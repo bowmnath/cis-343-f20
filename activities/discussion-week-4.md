@@ -62,16 +62,16 @@ use this example grammar from your textbook.
           | <id>
 ```
 
+If the following sentence is valid in the given grammar,
+derive it and draw a parse tree for the sentence.
+
+`C = (A + B) * A`
+
 (Textbook 3.7)
 If the following sentence is valid in the given grammar,
 derive it and draw a parse tree for the sentence.
 
 `A = B * (C * (A + B))`
-
-If the following sentence is valid in the given grammar,
-derive it and draw a parse tree for the sentence.
-
-`C = (A + B) * (A * B)`
 
 Given the parse tree below for an unknown grammar, which happens first,
 the addition or the multiplication?
