@@ -42,7 +42,7 @@ the link to redeem the textbook is
 |  3   | History and Architecture ([video 1](https://drive.google.com/file/d/1_NmC0fuUcafJnTC9u5nysdX5SM5Y_-gl/view?usp=sharing)) ([video 2](https://drive.google.com/file/d/1FOmPApcbBSN_m0RFc9tvx__9HKiD2Afc/view?usp=sharing)) ([video 3](https://drive.google.com/file/d/1o5fH-DIXaqrP0TG6ZlipG3yU36ZQ7yoL/view?usp=sharing)) ([video 4](https://drive.google.com/file/d/1az82jnRtPCGoIIOvtazYX8LA23V2zrUD/view?usp=sharing)) ([slides](slides/history-architecture.pdf)) | Chapter 2 | |
 |  4   | Syntax ([CFGs](https://drive.google.com/file/d/1rABRpVV4HlkflfjeUlpV1V2baZ7_HmWs/view?usp=sharing)) ([slides (for all 3 videos)](slides/syntax-and-semantics.pdf)) ([Parse trees](https://drive.google.com/file/d/1XRB99qB8N0T9Y048hmdEPqfxurhIpy5E/view?usp=sharing))<br> Semantics ([Semantics](https://drive.google.com/file/d/1fkUehq6jKeCUI50z-4ouRQnu1un1ufNw/view?usp=sharing)) | Chapter 3 | [Friday activity](activities/discussion-week-4.md) |
 |  5   | Lexing and Flex ([video](https://drive.google.com/file/d/12Y-s92_IzSbednm2RCxL4qZF6mGdIp43/view?usp=sharing)) ([slides](slides/lexical-analysis.pdf)) | 4.1 - 4.2 | **Thursday 10/1** C Project -- Reading Difficulty |
-|  6   | Parsing and Bison | | |
+|  6   | Parsing and Bison | | **Thursday 10/8** Homework 1 |
 |  7   | Object-oriented Programming | | |
 |  8   | Object-oriented Programming (with Python) | | **Midterm Exam** Friday, October 23 |
 |  9   | Names, Bindings, and Scope | | |
