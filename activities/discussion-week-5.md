@@ -46,16 +46,24 @@ Use the regular expression format
 [from the slides](https://github.com/bowmnath/cis-343-f20/blob/master/slides/lexical-analysis.pdf).
 
 Give a few examples of strings that match the following regular expression:
+```
 [Gg]ra+ce [Hopper]*
+```
 
 Give a few examples of strings that match the following regular expression:
+```
 \$.. is an (even | odd) number
+```
 
 Give a few examples of strings that match the following regular expression:
+```
 H[^aeiou]?
+```
 
 Give a few examples of strings that match the following regular expression:
+```
 .+[^s]$
+```
 
 For the problems that ask you to write a regular expression based on examples,
 note that there are infinitely many possibilities.
