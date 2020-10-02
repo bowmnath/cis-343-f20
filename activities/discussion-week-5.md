@@ -42,7 +42,8 @@ If so, find an example to demonstrate.
 
 What is the problem with having two parse trees for the same sentence?
 
-Use the regular expression format
+For the regular expression questions below,
+use the regular expression format
 [from the slides](https://github.com/bowmnath/cis-343-f20/blob/master/slides/lexical-analysis.pdf).
 
 Give a few examples of strings that match the following regular expression:
