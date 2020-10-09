@@ -44,7 +44,7 @@ the link to redeem the textbook is
 |  5   | Lexing and Flex ([video](https://drive.google.com/file/d/12Y-s92_IzSbednm2RCxL4qZF6mGdIp43/view?usp=sharing)) ([slides](slides/lexical-analysis.pdf))<br> [Friday activity](activities/discussion-week-5.md) | 4.1 - 4.2 | **Thursday 10/1** C Project -- Reading Difficulty |
 |  6   | Parsing ([video](https://drive.google.com/file/d/1ZX4BNARhRU-46CNT01Zj0iEEdL1rvREg/view?usp=sharing)) ([slides](slides/syntactical-analysis.pdf))<br> Bison ([video](https://drive.google.com/file/d/1QKJs2d0H96k5lKqqfTWO5zb-9eldcvIK/view?usp=sharing)) ([slides](slides/bison-intro.pdf)) | | **Thursday 10/8** Homework 1 |
 |  7   | Object-oriented Programming | | |
-|  8   | Object-oriented Programming (with Python) | | **Midterm Exam Friday, October 23**<br>**Thursday, October 22** Language Creation Project |
+|  8   | Object-oriented Programming (with Python) | | **Thursday, October 22** Language Creation Project<br> **Midterm Exam Friday, October 23** |
 |  9   | Names, Bindings, and Scope | | |
 |  10  | Expressions and Assignments (C++ Examples) | | |
 |  11  | Functional Programming (with Haskell) | | |
