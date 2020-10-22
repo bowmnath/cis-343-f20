@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
     int y;
     int x = 5;
 
-    y = nextNum(x)
+    y = nextNum(x);
 
     return 0;
 }
