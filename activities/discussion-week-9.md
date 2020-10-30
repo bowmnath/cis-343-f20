@@ -65,20 +65,10 @@ Would you support adding naming rules like the following?
 * integer variable names must start with `i`
 * floating-point variable names must start with `f`
 * and so on
+
 Why or why not?
 
-6. Pick one of the six attributes of variables that you felt least comfortable
-with or had a lingering question about.
-Discuss with your group to see if anyone else has a clearer explanation.
-The attributes are
-* name
-* address
-* value
-* type
-* lifetime
-* scope
-
-7. Consider the C code below.
+6. Consider the C code below.
 How do `x` and `p` differ in terms of address, value, and type?
 ```c
 int main() {
@@ -91,7 +81,7 @@ int main() {
 }
 ```
 
-8. Examine the C code below.
+7. Examine the C code below.
 ```c
 void s_incr() {
     static int stat = 0;
@@ -125,7 +115,7 @@ static stat: 5
 ```
 Can you explain what is happening here?
 
-9. For each of the variables `a` - `d`,
+8. For each of the variables `a` - `d`,
 is the variable allocated statically or dynamically?
 Where is the variable stored? (Stack, heap, or global)
 ```c
@@ -138,9 +128,9 @@ int main() {
 }
 ```
 
-10. When are each of the variables above deallocated?
+9. When are each of the variables above deallocated?
 
-11. What is the problem with the following?
+10. What is the problem with the following?
 ```c
 int* allocate() {
     int x = 0;
@@ -153,7 +143,7 @@ int main() {
 }
 ```
 
-12. What are the lifetimes of `a` and `b` in the code below?
+11. What are the lifetimes of `a` and `b` in the code below?
 ```c
 void fun() {
     static int a;
@@ -167,9 +157,9 @@ int main() {
 }
 ```
 
-13. What are the scopes of `a` and `b` in the code above?
+12. What are the scopes of `a` and `b` in the code above?
 
-14. Describe what happens in the following code assuming
+13. Describe what happens in the following code assuming
 * static scoping, or
 * dynamic scoping
 ```c
