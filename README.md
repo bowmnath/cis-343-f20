@@ -48,7 +48,7 @@ the link to redeem the textbook is
 |  9   | Names, Bindings, and Scope<br> ([names](https://drive.google.com/file/d/1pOrDw6ryvJTOy2GNIPQBk8zillYkurjH/view?usp=sharing))<br>([addresses](https://drive.google.com/file/d/1BDDJbBB4ClcDiAK4_gagGJ77woA9efKr/view?usp=sharing))<br>([binding](https://drive.google.com/file/d/1t3R1GXOFqV8bk-nCuKj1s0vjAeR9o5it/view?usp=sharing))<br>([storage](https://drive.google.com/file/d/1Zp9J-NdxFWEqoJVVn7TCos1N6c3-Az_c/view?usp=sharing))<br>([scope](https://drive.google.com/file/d/1ux9PWf65QRJJM63zv6RuMz8lvfTAdzrp/view?usp=sharing))<br>([slides](slides/names-bindings-scope.pdf))<br> [Friday activity](activities/discussion-week-9.md) | Chapter 5 | **Monday, October 26** Language Creation Project |
 |  10  | Expressions and Assignments<br> ([video 1](https://drive.google.com/file/d/1hVRib0yMU_kEY07cuPs1Huln_kvqrvW4/view?usp=sharing))<br> ([video 2](https://drive.google.com/file/d/147DUD4nVU-k89b6ENC_2d1ec4t7WXxQW/view?usp=sharing))<br> ([slides](slides/expressions-assignments.pdf))<br> Operator Overloading (C++ Examples)<br>([video](https://drive.google.com/file/d/1w1TT0635EhCpvEd8aqPVko2nbpUQIMDO/view?usp=sharing))<br> ([slides](slides/operator-overloading.pdf)) | Chapter 7 | |
 |  11  | Functional Programming (with Haskell) | | |
-|  12  | Subprograms | | |
+|  12  | Subprograms | | **Monday, November 16** Project 3 |
 |      | Thanksgiving break 11/25 - 11/29 | | |
 |  14  | Logic Programming | | |
 |  15  | Presentations | | |
