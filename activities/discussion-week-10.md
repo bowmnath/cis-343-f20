@@ -118,7 +118,7 @@ equivalent sum in US dollars
 12. What type of runtime error will the following code produce?
 ```
 float f = 5.6;
-for (int i = 0; < 100; i++) {
+for (int i = 0; i < 100; i++) {
     f = f/10;
 }
 ```
