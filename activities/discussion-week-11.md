@@ -2,6 +2,8 @@ The questions will be posted as homework.
 However, for this assignment specifically,
 you are allowed to work in pairs or small groups.
 
+These programs should be written in Scheme.
+
 # Questions
 
 Everyone knows that grading is done via random number generation.
