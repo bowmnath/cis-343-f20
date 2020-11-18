@@ -44,7 +44,7 @@ You are returning a function that generates grades.
 
 4. Write a function to evaluate the expression
 ```
-a + (b % c)*5*d - 5*d**(b % c)
+a + (b % c)*5*d - (5*d)**(b % c)
 ```
 where `**` denotes exponentiation (`expt` in Scheme).
 Notice that `(b % c)` and `5*d` both appear twice in the expression.
