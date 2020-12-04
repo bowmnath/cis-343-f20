@@ -85,7 +85,7 @@ state whether it is used for in-mode, out-mode, or in-out mode passing.
 
 11. If a large array is passed to a function,
 which will be more efficient:
-pass-by-value or pass-by-reference.
+pass-by-value or pass-by-reference?
 
 12. What is the result of the following code if the language uses shallow
 binding? Deep binding?
