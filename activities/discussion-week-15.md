@@ -58,7 +58,7 @@ Manx are cats.
 10. Given the above, what would Prolog say if you asked whether a terrier was
 a dog?
 
-11. Complete the following (replace the `...`) so that `area` is function to
+11. Complete the following (replace the `...`) so that `area` is a function to
 return the area of any box in the database.
 
 ```prolog
