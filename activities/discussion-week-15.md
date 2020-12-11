@@ -62,11 +62,11 @@ a dog?
 return the area of any box in the database.
 
 ```prolog
-:- width(box1, 10).
-:- width(box2, 15).
-:- height(box1, 5).
-:- height(box2, 2).
-:- area(A, B) :- width(A, Wide), height(A, Tall), ... .
+width(box1, 10).
+width(box2, 15).
+height(box1, 5).
+height(box2, 2).
+area(A, B) :- width(A, Wide), height(A, Tall), ... .
 ```
 
 12. The `area` "function" isn't really a function -- it is a rule.
